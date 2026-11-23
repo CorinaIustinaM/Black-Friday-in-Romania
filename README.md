@@ -10,10 +10,10 @@ Do Romanian shoppers really plan their Black Friday purchases, or do they shop i
 Most Romanian Black Friday shoppers plan their purchases weeks in advance, but their final purchase decisions are influenced by the perceived authenticity and attractiveness of discounts, as well as product availability.
 
 ## Data Source
-MKOR report "Black Friday Trends 2026": https://mkor.ro/studii/black-friday-2026-romania/
-Dataset on Kaggle: https://www.kaggle.com/datasets/romaniandatatribe/planned-or-impulsive-black-friday-in-romania
+- MKOR report "Black Friday Trends 2026": https://mkor.ro/studii/black-friday-2026-romania/
+- Dataset on Kaggle: https://www.kaggle.com/datasets/romaniandatatribe/planned-or-impulsive-black-friday-in-romania
 
-## Tools Used
+## Tool Used
 - Microsoft Power BI
 
 ## Conclusions
